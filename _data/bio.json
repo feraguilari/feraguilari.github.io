@@ -1,64 +1,59 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Fernando Aguilar Islas",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://feraguilari.github.io/images/feraguilari.png",
+    "email": "f.aguislas@gmail.com",
+    "phone": "",
+    "website": "https://feraguilari.github.io",
+    "summary": "Insatiable learner transitioning to a career in data science, eager to turn data into valuable intelligence through exploratory data analysis, statistics and machine learning algorithms. Previously, as an event planner and business owner, I leveraged technology to deliver a better service to my clients. In that process, I realized I was mostly passionate about the 'tech' part of my job: building and updating the company's website, creating GoogleAds, and FacebookAds campaigns, analyzing key metrics to optimize the marketing budget, and automating the sales cycle. Now, I want to bring that passion and my acquired skillset to tackle analytical challenges.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "22202",
+      "city": "Arlington",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "VA"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "feraguilari",
+        "url": "http://github.com/feraguilari"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "feraguilaris",
+        "url": "http://linkedin.com/in/feraguilaris"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "medium",
+        "username": "feraguilari",
+        "url": "https://medium.com/@feraguilari"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Science",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Business Intelligence",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Financial Analysis",
       "level": "",
       "keywords": [
         "C",
