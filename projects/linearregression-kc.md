@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/HousingModel_sq.png
 title: EDA and Linear Regression on King's County Housing Dataset
 permalink: projects/linearregression-kc
 # All dates must be YYYY-MM-DD format!
