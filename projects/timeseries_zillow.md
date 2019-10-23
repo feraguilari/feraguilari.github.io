@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/timeseries_zillow_sq.png
 title: Time Series Analysis on Zillow Data
 permalink: projects/timeseries_zillow
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-07-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Time series
+  - Python
+  - Forecast
+  - SARIMA
+summary: Time-series analysis on housing historical data obtained from Zillow.
 ---
 
 For this project I performed time-series analysis on housing historical data obtained from Zillow. Real Estate, Inc. is looking for the 5 best zipcodes in the US to buy homes, renovate and rent them. Real Estate, Inc. is looking for busy and dense metropolitan areas with an average house prices around the median.
