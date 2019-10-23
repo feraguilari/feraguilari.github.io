@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/HousingModel_sq.png
 title: EDA and Linear Regression on King's County Housing Dataset
-permalink: projects/linearregression-kc
+permalink: projects/linearregression_kc
 # All dates must be YYYY-MM-DD format!
-date: 2016-04-01
+date: 2019-04-01
 labels:
   - Python
   - Linear regression
