@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/northwindsql_sq.png
 title: Northwind's Sales Statistical Analysis
 permalink: projects/sql_northwind
 # All dates must be YYYY-MM-DD format!
