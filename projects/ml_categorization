@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HousingModel_sq.png
+image: images/ml_categorization_sq.png
 title: Machine Learning Categorization Models
 permalink: projects/ml_categorization
 # All dates must be YYYY-MM-DD format!
