@@ -19,3 +19,5 @@ The goal is to find strategies that will increase Northwind's profits, hence, I 
 <li>2. Are certain employees more productive than others?</li>
 <li>3. Do certain product categories have higher demand?</li>
 <li>4. Does shipping from local suppliers have an effect on freight costs?</li></ol>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5QU1P7MvIjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
