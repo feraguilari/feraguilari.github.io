@@ -19,3 +19,5 @@ For this project I performed time-series analysis on housing historical data obt
 <h3>Non-technical Presentation</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_BNyyL21w8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+For more information, view the complete project's [jupyter notebook](https://github.com/feraguilari/dsc-mod-4-project-online-ds-pt-021119/blob/master/student.ipynb).
