@@ -21,4 +21,5 @@ The goal is to find strategies that will increase Northwind's profits, hence, I 
 <li>Does shipping from local suppliers have an effect on freight costs?</li></ol>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QU1P7MvIjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For more information, view the complete project's [jupyter notebook](https://github.com/feraguilari/dsc-1-final-project-online-ds-pt-021119/blob/master/student.ipynb).
