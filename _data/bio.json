@@ -35,7 +35,7 @@
   "interests": [
     {
       "name": "Data Science",
-      "keywords": ["Machine Learning"
+      "keywords": [
       ]
     },
     {
@@ -52,14 +52,8 @@
   "skills": [
     {
       "name": "Financial Analysis",
-      "level": "",
+      "level": "CFA LEVEl I Pass (June 2019"),
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
