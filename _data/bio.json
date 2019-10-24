@@ -81,8 +81,8 @@
       "institution": "University of Miami, Coral Gables, FL",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.B.A.",
-      "startDate": "2009",
-      "endDate": "2012",
+      "startDate": "2009-01-01",
+      "endDate": "2012-05-01",
       "gpa": "",
       "courses": [
       ]
