@@ -35,16 +35,16 @@
   "interests": [
     {
       "name": "Data Science",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Machine Learning",
-      "keywords": [
+      "keywords": ["Machine Learning"
       ]
     },
     {
       "name": "Business Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Finance",
       "keywords": [
       ]
     }
