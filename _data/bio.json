@@ -160,36 +160,36 @@
       "highlights": [
         "After the first 9 months, online sales increased from 8% to 30% of total sales, exceeding objectives. Corporate clients included: Scotiabank, Coca-Cola (FEMSA), and Teléfonos de México (TELMEX)",
         "Budget, design and update the company's website, landing pages, GoogleAds, Facebook Ads, and specialty website subscriptions in accordance to findings from their respective performance metrics",
-        "Automated the sales process utilizing Wufoo Forms, MailChimp and Zoho CRM to increase conversion rates, and decrease the sales cycle time and conversion costs"
+        "Automated the sales process utilizing Zapier, Wufoo Forms, MailChimp and Zoho CRM to increase conversion rates, and decrease the sales cycle time and conversion costs"
       ]
     },
+    {
+      "company": "Salones Alvi",
+      "position": "Webmaster and internet Sales",
+      "website": "",
+      "startDate": "2010-08-01",
+      "endDate": "2012-09-01",
+      "summary": "",
+      "highlights": [
+        "Learnt HTML, CSS and JavaScript basics to build the company's website and landing pages on Joomla",
+        "Responsible for replying and selling to all web inquiries from prospective clients, increasing revenue from internet generated leads from less than 5% to 30% of total sales in the first year",
+        "Doubled marketing ROI from 17% to 38% by reallocating spending on print media to segmented GoogleAds campaigns"
+      ]
+    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "United Nations Volunteers",
+      "website": "http://onlinevolunteering.org",
+      "position": "Business Plan Grader",
+      "startDate": "2016-08-01",
+      "endDate": "2016-11-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "The program supports teachers and students to work together to plan and launch a profitable business which also creates a positive social and environmental impact",
+        "Responsible for marking 4 business plans a week adhering strictly to the rubric provided by the charity and uploading the results to their database"
       ]
-    }
+    },
   ],
   "awards": [
     {
