@@ -112,29 +112,57 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Amazon",
+      "position": "Customer Service Agent",
+      "website": "www.amazon.com",
+      "startDate": "2018-10-01",
+      "endDate": "2019-11-30",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provided outstanding customer service by phone, chat and email as a generalist and as a registries specialist",
+        "Using Amazon's knowledge center and interface, efficiently solved a wide variety of issues faced by customers while empathizing with them and prioritizing their requests",
+        "Managed approximately 12 requests per hour, usually servicing multiple channels simultaneously, with high customer satisfaction"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Excelencia Eventos",
+      "position": "External Consultant",
+      "website": "",
+      "startDate": "2017-11-01",
+      "endDate": "2018-09-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Analyzed periodic financial statement to gather insight that enabled the business to find areas of opportunity including product selection, pricing strategies and negotiations with vendors",
+        "Revision of key web metrics to assist in updating the current digital marketing strategy consistently improving ROI by 0.25-1% per quarter",
+        "Researched for new event locations and collaborated as an event planner on an as-needed basis for corporate, and government events, and special clients"
       ]
-    }
+    },
+    {
+      "company": "Excelencia Eventos",
+      "position": "Co-Owner and Managing Director",
+      "website": "",
+      "startDate": "2015-01-01",
+      "endDate": "2017-11-01",
+      "summary": "",
+      "highlights": [
+        "Developed the business plan, legally incorporated and set up the accounts for the business entity, hired and trained 5 event planners, conducted vendor screening and selection",
+        "Designed and launched the company's website, landing pages and the business profile in specialty websites. Monitored their performance metrics and updated the digital marketing strategy accordingly",
+        "Budget day-to-day operations and prepare periodic financial statements"
+      ]
+    },
+    {
+      "company": "Salones Palazzio Videmar",
+      "position": "Internet Sales Director",
+      "website": "",
+      "startDate": "2012-09-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": [
+        "After the first 9 months, online sales increased from 8% to 30% of total sales, exceeding objectives. Corporate clients included: Scotiabank, Coca-Cola (FEMSA), and Teléfonos de México (TELMEX)",
+        "Budget, design and update the company's website, landing pages, GoogleAds, Facebook Ads, and specialty website subscriptions in accordance to findings from their respective performance metrics",
+        "Automated the sales process utilizing Wufoo Forms, MailChimp and Zoho CRM to increase conversion rates, and decrease the sales cycle time and conversion costs"
+      ]
+    },
   ],
   "volunteer": [
     {
