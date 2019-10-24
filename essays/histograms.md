@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-draft: true
 title: Histograms in Data Science
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-15
