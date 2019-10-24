@@ -57,14 +57,13 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Machine Learning",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Predictive Modelling",
+        "Time Series Modelling",
+        "Classification Models",
+        "Clustering Techniques"
       ]
     }
   ],
