@@ -30,7 +30,8 @@
         "username": "feraguilari",
         "url": "https://medium.com/@feraguilari"
       }
-    ]},
+    ]
+  },
   "interests": [
     {
       "name": "Data Science",
@@ -74,14 +75,14 @@
       "name": "Financial Analysis",
       "level": "",
       "keywords": [
-        "CFA LEVEl I Pass (June 2019)",
+        "CFA Level I Pass (June 2019)",
       ]
     },
     {
       "name": "Business Tools",
       "level": "",
       "keywords": [
-        "Gsuite for Business",
+        "G Suite for Business",
         "MS Office",
       ]
     },
