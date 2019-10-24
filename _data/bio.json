@@ -51,12 +51,6 @@
   ],
   "skills": [
     {
-      "name": "Financial Analysis",
-      "level": "CFA LEVEl I Pass (June 2019"),
-      "keywords": [
-      ]
-    },
-    {
       "name": "Machine Learning",
       "level": "",
       "keywords": [
@@ -64,6 +58,40 @@
         "Time Series Modelling",
         "Classification Models",
         "Clustering Techniques"
+      ]
+    },
+    {
+      "name": "Programming Languages/Toolset",
+      "level": "",
+      "keywords": [
+        "Python",
+        "SQL"
+        "HTML",
+        "CSS",
+        "Git/Github",
+      ]
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "CFA LEVEl I Pass (June 2019"),
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Business Tools",
+      "level": "",
+      "keywords": [
+        "Gsuite for Business",
+        "MS Office",
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "English",
+        "Spanish",
+        "Portuguese",
       ]
     }
   ],
