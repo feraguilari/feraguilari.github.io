@@ -79,12 +79,12 @@
   "education": [
     {
       "institution": "University of Miami, Coral Gables, FL",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Major: Economics, Minor:Finance",
       "studyType": "B.S.B.A.",
       "startDate": "2009-01-01",
       "endDate": "2012-05-01",
       "gpa": "",
-      "courses": [
+      "courses": ["Study abroad experience in Mexico City at a top economics research school, (CIDE). Relevant coursework included, financial analysis, securities valuation, investment management, economic modeling, and statistics. At the same time, I developed proficiency in MS package as well as statistical packages such as R and Stata."
       ]
     }
   ],
