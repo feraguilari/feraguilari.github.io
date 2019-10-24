@@ -104,7 +104,9 @@
       "startDate": "2009-01-01",
       "endDate": "2012-05-01",
       "gpa": "",
-      "courses": ["Study abroad experience in Mexico City at a top economics research school, (CIDE). Relevant coursework included, financial analysis, securities valuation, investment management, economic modeling, and statistics. At the same time, I developed proficiency in MS package as well as statistical packages such as R and Stata."
+      "courses": ["Relevant coursework included, financial analysis, securities valuation, investment management, economic modeling, and statistics.",
+                  "Developed proficiency in R, Stata, amd MS Office Suite",
+                  "Study abroad experience in Mexico City at a top economics research university, (CIDE). "
       ]
     },
   ],
