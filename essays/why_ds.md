@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-essayurl: https://medium.com/@feraguilari/why-did-i-decide-to-learn-data-science-b85e1ccb344a
+essayurl: https://medium.com/@feraguilari/why-did-i-decide-to-learn-data-science-b85e1ccb344a?source=friends_link&sk=86c7cb79dc75d0dd94ae284a452ab98f
 title: Why did I decide to learn data science?
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-28
