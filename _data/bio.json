@@ -77,8 +77,19 @@
     }
   ],
   "education": [
+            {
+      "institution": "Pennsylvania State University, Online",
+      "area": "Applied Statistics",
+      "studyType": "Graduate Certificate",
+      "startDate": "2019-09-01",
+      "endDate": "2021-01-01",
+      "gpa": "",
+      "courses": ["Descriptive statistics, hypothesis testing, power, estimation, confidence intervals, regression, one- and two-way ANOVA, chi-square tests, diagnostics.",
+                  "Analysis of research data through simple and multiple regression and correlation; polynomial models; indicator variables; step-wise, piece-wise, and logistic regression."
+      ]
+    },
         {
-      "institution": "Flatiron School, online",
+      "institution": "Flatiron School, Online",
       "area": "Data Science",
       "studyType": "Bootcamp",
       "startDate": "2019-02-01",
