@@ -77,6 +77,17 @@
     }
   ],
   "education": [
+        {
+      "institution": "Flatiron School, online",
+      "area": "Data Science",
+      "studyType": "Bootcamp",
+      "startDate": "2019-02-01",
+      "endDate": "2020-01-01",
+      "gpa": "",
+      "courses": ["Python, Data Querying (SQL/NoSQL), Object-oriented Programming",
+                  "Statsitics adn Statistical Models, Machine Leraning, Natural Language Processing"
+      ]
+    },
     {
       "institution": "University of Miami, Coral Gables, FL",
       "area": "Major: Economics, Minor:Finance",
@@ -86,7 +97,7 @@
       "gpa": "",
       "courses": ["Study abroad experience in Mexico City at a top economics research school, (CIDE). Relevant coursework included, financial analysis, securities valuation, investment management, economic modeling, and statistics. At the same time, I developed proficiency in MS package as well as statistical packages such as R and Stata."
       ]
-    }
+    },
   ],
   "work": [
     {
