@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/feraguilari/WorldBank_Capstone/blob/master/img/RegionalGrades.png
+image: images/sovereign_sq.png
 title: Predicting Country Repayment Risk
 permalink: projects/wgi
 date: 2019-12-01
